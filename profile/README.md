@@ -1,5 +1,7 @@
 Pilbrow & Partners is a 70-strong architecture and urban design studio based in Clerkenwell, London.
 
+![Edge](img/1842_n142_ppwebsite.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
